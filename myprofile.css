@@ -215,6 +215,10 @@ section img {
 #leftdiv h3 {
   margin-left: 10%;
 }
+#leftdiv a{
+  margin-left: 2%;
+}
+
 
 .rigdiv form {
   margin-left: 10%;
